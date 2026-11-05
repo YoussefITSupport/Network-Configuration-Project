@@ -2,7 +2,7 @@
 
 Cisco Packet Tracer
 
-1. Project Overview
+## 1. Project Overview
 
 Designed and configured a small computer network using Cisco Packet Tracer to connect multiple devices and test network connectivity.
 
