@@ -1,5 +1,4 @@
-<img width="855" height="813" alt="Connectivity Test - Successful ping" src="https://github.com/user-attachments/assets/753ebcc3-0408-4576-9114-aff007ec5f6d" />
-<img width="1597" height="688" alt="Network Topology" src="https://github.com/user-attachments/assets/80fe52c7-870c-4534-a29b-7d64f8c4ecbe" />
+
 # Network Configuration Project
 
 Cisco Packet Tracer
@@ -59,3 +58,7 @@ Project screenshots are available in the screenshots folder.
 ## 8. Tools
 
 Cisco Packet Tracer
+<img width="1597" height="688" alt="Network Topology" src="https://github.com/user-attachments/assets/80fe52c7-870c-4534-a29b-7d64f8c4ecbe" />
+
+<img width="855" height="813" alt="Connectivity Test - Successful ping" src="https://github.com/user-attachments/assets/753ebcc3-0408-4576-9114-aff007ec5f6d" />
+
