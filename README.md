@@ -34,30 +34,30 @@ to connect multiple devices and test network connectivity.
 - Connected and tested the network printer.
 
 ## 1. Network 1 – Left Side
-Device IP Address
-Router G0/0/0 192.168.10.1
-Printer0 192.168.10.15
-PC0 192.168.10.10
-PC1 192.168.10.11
-PC2 192.168.10.12
-Subnet Mask: 255.255.255.0
-Default Gateway: 192.168.10.1
+- Device IP Address
+- Router G0/0/0 192.168.10.1
+- Printer0 192.168.10.15
+- PC0 192.168.10.10
+- PC1 192.168.10.11
+- PC2 192.168.10.12
+- Subnet Mask: 255.255.255.0
+- Default Gateway: 192.168.10.1
 
 ## 2. Network 2 – Right Side
-Device IP Address
-Router G0/0/1 192.168.20.1
-PC3 192.168.20.10
-PC4 192.168.20.11
-PC5 192.168.20.12
-Laptop0 192.168.20.30
-Laptop1 192.168.20.31
-Subnet Mask: 255.255.255.0
-Default Gateway: 192.168.20.1
+- Device IP Address
+- Router G0/0/1 192.168.20.1
+- PC3 192.168.20.10
+- PC4 192.168.20.11
+- PC5 192.168.20.12
+- Laptop0 192.168.20.30
+- Laptop1 192.168.20.31
+- Subnet Mask: 255.255.255.0
+- Default Gateway: 192.168.20.1
 
 ## 3. Network Summary
-Network Network Address Usable Hosts
-Left 192.168.10.0/24 254
-Right 192.168.20.0/24 254
+- Network Network Address Usable Hosts
+- Left 192.168.10.0/24 254
+- Right 192.168.20.0/24 254
 
 ## 5. Connectivity Testing
 
